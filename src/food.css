@@ -1,0 +1,9 @@
+.food-list{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin:40px auto;
+  font-weight: bold;
+  font-size: 40px;
+}
+

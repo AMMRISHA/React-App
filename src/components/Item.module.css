@@ -1,0 +1,9 @@
+.button{
+  float: right;
+  color: green;
+  background-color: white;
+  border: 1px solid white;
+  border-radius: 2px;
+  font-size: 20px;
+  font-weight: bold;
+}

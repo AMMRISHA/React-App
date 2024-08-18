@@ -1,0 +1,16 @@
+.food-list{
+  font-size: 50px;
+  color: green;
+}
+.list-group{
+  width: 100%;
+}
+.kggroup{
+  width: 70%;
+  padding: 20px;
+  margin: auto;
+  justify-content: center;
+  background-color: green;
+  color: white;
+}
+

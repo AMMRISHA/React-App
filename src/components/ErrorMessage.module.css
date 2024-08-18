@@ -1,0 +1,17 @@
+.errormessage{
+  margin: auto;
+  justify-content: center;
+  width: 50%;
+  align-items: center;
+  text-align: center;
+  background-color: white;
+  padding: 20px;
+  border-radius: 20px;
+  color: green;
+  font-size: 20px;
+  height: auto;
+  display: flex;
+  border: 2px solid green;
+  font-weight: bold;
+}
+

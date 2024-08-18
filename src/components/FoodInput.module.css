@@ -1,0 +1,10 @@
+
+
+.FoodInput{
+  width: 70%;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 0px auto 40px;
+  justify-content: center;
+  align-items: center;
+}
